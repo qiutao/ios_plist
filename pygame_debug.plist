@@ -18,7 +18,7 @@
           <key>bundle-identifier</key>
           <string>com.fingerfish.pygame</string>
           <key>bundle-version</key>
-          <string>1.61</string>
+          <string>1.62</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
