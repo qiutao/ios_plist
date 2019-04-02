@@ -1,0 +1,15 @@
+*.csproj
+*.ipa
+*.txt
+*.sln
+*.suo
+*.lua.bytes
+/Assets/temp
+/Assets/temp.meta
+/Builds
+.vscode
+Library
+obj
+Temp
+/RegisterIcalls.cpp
+.vs/*
